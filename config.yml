@@ -1,4 +1,15 @@
 baseURL: https://lorrrie.com/
 languageCode: en-us
-title: Lorrie and Woody
-theme: "PaperMod"
+title: Home
+theme: PaperMod
+
+params:
+  disableThemeToggle: true
+  defaultTheme: light # dark, light
+  homeInfoParams:
+    Title: The Stories of Lorrie and Woody
+    Content: You are always my LOVE, since the very first day.
+  ShowToc: true
+  TocOpen: true
+  ShowCodeCopyButtons: true
+  comments: true
