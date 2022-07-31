@@ -26,7 +26,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          EXTERNAL_REPOSITORY: wc0517/wc0517.github.io/new_lorrrie
+          EXTERNAL_REPOSITORY: wc0517/new_lorrrie
           PUBLISH_BRANCH: main
           PUBLISH_DIR: ./public
           commit_message: ${{ github.event.head_commit.message }}
