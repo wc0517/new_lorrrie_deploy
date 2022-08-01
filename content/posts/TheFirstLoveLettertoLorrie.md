@@ -4,7 +4,7 @@ date: 2019-07-08T00:00:00+08:00
 draft: false
 ---
 
-![1659354562929](image/TheFirstLoveLettertoLorrie/1659354562929.gif)
+![Lorrie](/posts/portrait.gif)
 
 Dear Lorrie,
 
@@ -30,10 +30,12 @@ To you, I may haven’t left any touching moments. I’ve never saved or comfort
 
 ~~I don’t even crave you love now. I don’t crave things not belong to me. I can only write it down, I bet you won’t read this.~~
 
-<mark>I DO LOVE YOU.</mark>
+I DO LOVE YOU.
 
 Woody Wang
 
 Jul 8, 2019
+
+---
 
 > The deleted paragraphs were hidden on the original website. I unhided it here just wanted you to know how I really felt at that time.

@@ -13,3 +13,6 @@ params:
   TocOpen: true
   ShowCodeCopyButtons: true
   comments: true
+  env: production
+  assets:
+    disableHLJS: true
