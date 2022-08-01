@@ -4,7 +4,7 @@ date: 2019-07-08T00:00:00+08:00
 draft: false
 ---
 
-![1659354562929](image/TheFirstLoveLettertoLorrie/1659354562929.png)
+![1659354562929](image/TheFirstLoveLettertoLorrie/1659354562929.gif)
 
 Dear Lorrie,
 
