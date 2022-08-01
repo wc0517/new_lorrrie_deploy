@@ -4,6 +4,8 @@ date: 2019-07-08T00:00:00+08:00
 draft: false
 ---
 
+![1659354562929](image/TheFirstLoveLettertoLorrie/1659354562929.png)
+
 Dear Lorrie,
 
 \"Just another boring night, nothing special will happen.\" I said to myself. I looked up at the sky, couldn’t see any stars. I clicked the confirm button and sent my request to you. Then everything started to change.
