@@ -6,13 +6,10 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: The Stories of Lorrie and Woody
-    Content: You are always my LOVE, since the very first day.
+    Content: YOU ARE (NOT) ALONE.
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
   comments: true
-  env: production
-  assets:
-    disableHLJS: true
   defaultTheme: light
   disableThemeToggle: true
