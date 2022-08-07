@@ -14,3 +14,5 @@ params:
   env: production
   assets:
     disableHLJS: true
+  defaultTheme: light
+  disableThemeToggle: true
