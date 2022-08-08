@@ -38,4 +38,4 @@ Jul 8, 2019
 
 ---
 
-> The deleted paragraphs were hidden on the original website. I unhided it here just wanted you to know how I really felt at that time.
+> The deleted paragraphs were hidden on the original website. I unhided them here just wanted you to know how I really felt at that time.
