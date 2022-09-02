@@ -11,5 +11,5 @@ params:
   TocOpen: true
   ShowCodeCopyButtons: true
   comments: true
-  defaultTheme: light
+  defaultTheme: dark
   disableThemeToggle: true
