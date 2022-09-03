@@ -5,11 +5,11 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: The Stories of Lorrie and Woody
-    Content: YOU ARE (NOT) ALONE.
+    Title: I WON'T BOTHER YOU ANYMORE
+    Content: YOU CAN HAVE A BETTER LIFE WITHOUT ME
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
-  comments: true
+  comments: false
   defaultTheme: dark
   disableThemeToggle: true
