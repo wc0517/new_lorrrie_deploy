@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: I WON'T BOTHER YOU ANYMORE
-    Content: YOU CAN HAVE A BETTER LIFE WITHOUT ME
+    Title: THE STORIES OF LORRIE AND WOODY
+    Content: I LOVE YOU
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
