@@ -1,12 +1,12 @@
 baseURL: https://www.lorrrie.com/
 languageCode: en-us
-title: untimely
+title: UNWANTED
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: THE STORIES OF LORRIE AND WOODY
-    Content: I LOVE YOU
+    Title: I AM JUST A CLOWN
+    Content: NOBODY NEEDS ME
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
