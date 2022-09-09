@@ -1,12 +1,12 @@
 baseURL: https://www.lorrrie.com/
 languageCode: en-us
-title: UNWANTED
+title: untimely
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: I AM JUST A CLOWN
-    Content: NOBODY NEEDS ME
+    Title: HIDE BEHIND A PAINTED SMILE
+    Content: THE STORY MAY COME TO THE END
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
