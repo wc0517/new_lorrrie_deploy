@@ -1,12 +1,12 @@
 baseURL: https://www.lorrrie.com/
 languageCode: en-us
-title: untimely
+title:
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: HIDE BEHIND A PAINTED SMILE
-    Content: THE STORY MAY COME TO THE END
+    Title: 可能我就是配不上你吧
+    Content: 我尽力了，我付出了，我输得彻彻底底
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
