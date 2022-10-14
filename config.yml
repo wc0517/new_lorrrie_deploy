@@ -1,12 +1,12 @@
 baseURL: https://www.lorrrie.com/
 languageCode: en-us
-title:
+title: untimely
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: 可能我就是配不上你吧
-    Content: 我尽力了，我付出了，我输得彻彻底底
+    Title: I LOVE YOU
+    Content: MORE THAN YOU'LL KNOW
   ShowToc: true
   TocOpen: true
   ShowCodeCopyButtons: true
